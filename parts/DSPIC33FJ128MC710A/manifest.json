@@ -1,0 +1,17 @@
+{
+  "id": "DSP_Microchip_DSPIC33/DSPIC33FJ128MC710A:DSPIC33FJ128MC710A",
+  "name": "DSPIC33FJ128MC710A",
+  "library": "DSP_Microchip_DSPIC33",
+  "file": "DSP_Microchip_DSPIC33.kicad_symdir/DSPIC33FJ128MC710A.kicad_sym",
+  "description": "High-Performance, 16-bit Digital Signal Controller,40MIPS, 128k Flash, 16k SRAM, TQFP-100",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/70594C.pdf",
+  "keywords": "16-bit Digital Signal Controller Microchip dsPIC",
+  "footprint": "",
+  "extends": "DSPIC33FJ256MC710A",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-dsp-microchip-dspic33@master/parts/DSPIC33FJ128MC710A/",
+  "part_path": "parts/DSPIC33FJ128MC710A",
+  "symbol_file": "parts/DSPIC33FJ128MC710A/DSPIC33FJ128MC710A.kicad_sym",
+  "source_library": "DSP_Microchip_DSPIC33.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:37.922Z"
+}

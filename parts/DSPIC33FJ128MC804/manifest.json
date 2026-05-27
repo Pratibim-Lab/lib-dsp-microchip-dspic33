@@ -1,0 +1,17 @@
+{
+  "id": "DSP_Microchip_DSPIC33/DSPIC33FJ128MC804:DSPIC33FJ128MC804",
+  "name": "DSPIC33FJ128MC804",
+  "library": "DSP_Microchip_DSPIC33",
+  "file": "DSP_Microchip_DSPIC33.kicad_symdir/DSPIC33FJ128MC804.kicad_sym",
+  "description": "40MIPS, 128k Flash, 16k SRAM, ECAN, 16-bit DAC",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/70291G.pdf",
+  "keywords": "16-bit Digital Signal Controller Microchip dsPIC Motor Control",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-dsp-microchip-dspic33@master/parts/DSPIC33FJ128MC804/",
+  "part_path": "parts/DSPIC33FJ128MC804",
+  "symbol_file": "parts/DSPIC33FJ128MC804/DSPIC33FJ128MC804.kicad_sym",
+  "source_library": "DSP_Microchip_DSPIC33.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:03:37.925Z"
+}
